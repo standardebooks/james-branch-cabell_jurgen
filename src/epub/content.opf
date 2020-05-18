@@ -55,7 +55,8 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8771</dc:source>
-		<dc:source>https://books.google.com/books?id=hhERAAAAYAAJ</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000622799</dc:source>
+		<meta property="se:production-notes">The page scans are of the 1922 edition, which differs from the 1919 edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jurgen</meta>
