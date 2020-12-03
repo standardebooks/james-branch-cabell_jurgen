@@ -55,6 +55,10 @@ section[epub|type~="epigraph"] > *{
 /* End full-page epigraphs */
 
 /* All dedications */
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] > *{
 	display: inline-block;
 	margin: auto;
@@ -80,7 +84,6 @@ section[epub|type~="dedication"] > *{
 /* End all dedications */
 
 section[epub|type~="dedication"] > p{
-	text-align: center;
 	font-variant: small-caps;
 	margin-bottom: 3em;
 }
