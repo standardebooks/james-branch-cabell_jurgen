@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107176</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="term" refines="#subject-4">sh85003641</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Biography of the Life of Manuel</meta>
