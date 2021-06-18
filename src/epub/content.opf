@@ -64,7 +64,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/8771</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000622799</dc:source>
 		<meta property="se:production-notes">The page scans are of the 1922 edition, which differs from the 1919 edition. In the page scans, the 2nd epigraph is part of the half title, and the ellipses suggest that it forms a complete phrase with the word "Jurgen." But, the phrase translates to "setbacks with a smile," so it's *not* a single phrase, and can be separated into its own epigraph file.</meta>
-		<meta property="se:word-count">95403</meta>
+		<meta property="se:word-count">95401</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jurgen,_A_Comedy_of_Justice</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-branch-cabell_jurgen</meta>
