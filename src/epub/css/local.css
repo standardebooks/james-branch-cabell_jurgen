@@ -122,6 +122,7 @@ p span.i1{
 }
 
 #chapter-50 p:last-child{
+	font-variant: small-caps;
 	margin-top: 1em;
 	text-align: center;
 	text-indent: 0;
