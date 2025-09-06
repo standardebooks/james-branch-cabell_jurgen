@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="foreword.xhtml">
+	<file path="chapter-50.xhtml">
 		<ignore>
 			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-50.xhtml">
+	<file path="foreword.xhtml">
 		<ignore>
 			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
