@@ -1,0 +1,1 @@
+The page scans are of the 1922 edition, which differs from the 1919 edition. In the page scans, the 2nd epigraph is part of the half title, and the ellipses suggest that it forms a complete phrase with the word "Jurgen." But, the phrase translates to "setbacks with a smile," so it's *not* a single phrase, and can be separated into its own epigraph file.
